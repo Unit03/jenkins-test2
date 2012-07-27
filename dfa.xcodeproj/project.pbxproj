@@ -23,13 +23,13 @@
 		A66B80AB15C2E7CC0052EDBC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A66B80AD15C2E7CC0052EDBC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A66B80AF15C2E7CC0052EDBC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		A66B80B315C2E7CC0052EDBC /* dfa-Info.plist */ = {isa = PBXFileReference; path = "dfa-Info.plist"; sourceTree = "<group>"; };
+		A66B80B315C2E7CC0052EDBC /* dfa-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "dfa-Info.plist"; sourceTree = "<group>"; };
 		A66B80B515C2E7CC0052EDBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A66B80B715C2E7CC0052EDBC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A66B80B915C2E7CC0052EDBC /* dfa-Prefix.pch */ = {isa = PBXFileReference; path = "dfa-Prefix.pch"; sourceTree = "<group>"; };
-		A66B80BA15C2E7CC0052EDBC /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		A66B80B915C2E7CC0052EDBC /* dfa-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "dfa-Prefix.pch"; sourceTree = "<group>"; };
+		A66B80BA15C2E7CC0052EDBC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A66B80BB15C2E7CC0052EDBC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A66B80BD15C2E7CC0052EDBC /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		A66B80BD15C2E7CC0052EDBC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A66B80BE15C2E7CC0052EDBC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		A66B80C115C2E7CC0052EDBC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		A66B80C415C2E7CC0052EDBC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
